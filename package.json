@@ -1,0 +1,27 @@
+{
+  "name": "grid-lite",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.css",
+  "scripts": {
+    "build": "webpack"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niyingfeng/grid-lite.git"
+  },
+  "author": "niyingfeng",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/niyingfeng/grid-lite/issues"
+  },
+  "homepage": "https://github.com/niyingfeng/grid-lite#readme",
+  "devDependencies": {
+    "css-loader": "^0.28.4",
+    "extract-text-webpack-plugin": "^2.1.2",
+    "sass-loader": "^6.0.6",
+    "style-loader": "^0.18.2",
+    "webpack": "^3.0.0",
+    "webpack-dev-server": "^2.5.0"
+  }
+}
